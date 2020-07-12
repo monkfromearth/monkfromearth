@@ -31,4 +31,4 @@ Talk to me about
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=monkfromearth.monkfromearth)
 
-```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
+```⭐️ From [monkfromearth](https://github.com/monkfromearth)```
