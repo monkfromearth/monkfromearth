@@ -27,8 +27,8 @@ Talk to me about
 - 🔔 Subscribe:- [Sameer Khan](https://www.youtube.com/channel%2FUCRyv5xFZwduoEpexogH70Bw)
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=monkfromearth&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=monkfromearth.monkfromearth)
 
 ```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
