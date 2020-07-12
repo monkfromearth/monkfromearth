@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@monkfromearth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monkfromearth)](https://twitter.com/monkfromearth) [![Linkedin Badge](https://img.shields.io/badge/-monkfromearth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monkfromearth/)](https://www.linkedin.com/in/monkfromearth/) [![Medium Badge](https://img.shields.io/badge/-@monkfromearth-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@monkfromearth/)](https://medium.com/@monkfromearth)
 [![Gmail Badge](https://img.shields.io/badge/-sameerkhanofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sameerkhanofficial@gmail.com)](mailto:sameerkhanofficial@gmail.com)
 
-I am Sameer Khan 😃. I am from Bhopal, Madhya Pradesh and currently doing my B.Tech. from OIST, Bhopal 🏫.
+I am Sameer Khan 😃, from Bhopal, Madhya Pradesh and currently doing my B.Tech. from OIST, Bhopal 🏫.
 
 ## 👯 Communities
 * Co-Organizer @ GDG Bhopal
