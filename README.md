@@ -29,6 +29,4 @@ Talk to me about
 
 ![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=monkfromearth&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=monkfromearth.monkfromearth)
-
-```⭐️ From [monkfromearth](https://github.com/monkfromearth)```
+⭐️ From [monkfromearth](https://github.com/monkfromearth)
