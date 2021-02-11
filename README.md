@@ -23,7 +23,7 @@ Talk to me about
 ## Hello World!! ⭐️
 - 💬 Ask me about anything an everything
 - 🎯 Watch my Interview: [on YouTube](https://bit.ly/sk-interview)
-- 🔔 Subscribe:- [Sameer Khan](https://www.youtube.com/channel%2FUCRyv5xFZwduoEpexogH70Bw)
+- 🔔 Subscribe:- [Sameer Khan](https://www.youtube.com/channel/UCRyv5xFZwduoEpexogH70Bw)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=monkfromearth&hide=["issues"]&show_icons=true)
