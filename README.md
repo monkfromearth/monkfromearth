@@ -13,12 +13,12 @@ I am Sameer Khan 😃, from Bhopal, Madhya Pradesh 🏫.
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **React.js**
-- Backend development using **Python Flask**
+- Front-end development using **React.js, AngularJS, Bootstrap + jQuery**
+- Backend development using **Python Flask, Node.js**
 - Robust full-stack system design implementation
 - Mobile application development using **React Native**
-- Creating scalable cloud architecture using **AWS**
-- Solving Data structure and algorithm questions in **C++**
+- Creating scalable cloud architecture using **AWS, Kubernetes**
+- Solving Data structure and algorithm questions in **Python, C++**
 
 ## Hello World!! ⭐️
 - 💬 Ask me about anything an everything
