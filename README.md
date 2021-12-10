@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sameerkhanofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sameerkhanofficial@gmail.com)](mailto:sameerkhanofficial@gmail.com)
 
 I am Sameer Khan 😃, from Bhopal, Madhya Pradesh 🏫. 
+
 I talk about tech, philosophy, and startups. Building for India. ❤️
 
 ## 👯 Communities
