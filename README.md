@@ -55,13 +55,6 @@ Published ML/DL researcher. Speaker. Open source contributor.
 </tr>
 </table>
 
-#### Open Source
-
-| Project | What It Does | Performance |
-|---------|-------------|-------------|
-| [@theinternetfolks/snowflake](https://github.com/theinternetfolks/snowflake) | Distributed unique ID generation | 4,096+ IDs/ms — 10x faster than UUID |
-| [@theinternetfolks/context](https://github.com/theinternetfolks/context) | AsyncLocalStorage context propagation for Node.js | 40+ production adoptions |
-
 #### Writing
 
 > *"Making simple things is the hardest thing there is. What looks simple survived thousands of iterations."*
