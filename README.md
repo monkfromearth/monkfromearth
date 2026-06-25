@@ -6,12 +6,12 @@
 
 **I design systems to scale and ideas to stay simple.**
 
-Product Lead building agentic AI for 2M+ users. 11 years coding, 8 professionally.<br/>
+Product Lead building agentic AI for 2M+ visitors. 11 years coding, 8 professionally.<br/>
 Published ML/DL researcher. Speaker. Open source contributor.
 
 [![Meta × DataCamp Scholar](https://img.shields.io/badge/Meta_×_DataCamp-Global_200_Scholar-0668E1?style=flat&logo=meta&logoColor=white)](https://www.datacamp.com)
 [![Springer SCI](https://img.shields.io/badge/Springer-SCI_Published_Author-025786?style=flat&logo=springer&logoColor=white)](http://doi.org/10.1007/978-981-15-2071-6_12)
-[![Anthropic MCP](https://img.shields.io/badge/Anthropic-MCP_Certified-D97757?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEzLjgyNyAyLjE2MkwxOC4yNTMgMjEuODM4SDE0LjcyN0wxMy4wNjcgMTYuMjRIOS4yNTRMNi42NjcgMjEuODM4SDMuNTQ3TDExLjQgMi4xNjJIMTMuODI3Wk0xMS4yIDYuNDhMMTAuMDE0IDEzLjY0SDEyLjgxM0wxMS4yIDYuNDhaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)](https://learn.deeplearning.ai/accomplishments/d21f72f5-7146-47a8-9853-db6ade0a6d63)
+[![University of Toronto](https://img.shields.io/badge/U_of_Toronto-Quantum_ML-1E3765?style=flat&logo=edx&logoColor=white)](https://courses.edx.org/certificates/bea072907d824b16965bf39021c1e083)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-Speaker-4285F4?style=flat&logo=googlecloud&logoColor=white)](#)
 
 <br/>
@@ -28,8 +28,10 @@ Published ML/DL researcher. Speaker. Open source contributor.
 
 #### What I'm Building
 
-- **Agentic AI at [Levo.so](https://levo.so)** — natural language orchestrating 15+ microservices, serving 2M+ users
-- **[Monklore](https://monklore.com)** — first principles learning engine (in development)
+- **Agentic AI at [Levo.so](https://levo.so)** — natural language orchestrating 15+ microservices, serving 2M+ visitors
+- **[monktensor](https://github.com/monkfromearth/monktensor)** — a deep learning framework built from scratch: scalar autograd up to trained neural nets, taught through a live interactive [course](https://monkfromearth.github.io/monktensor)
+- **[monkrag](https://github.com/monkfromearth/monkrag)** — a RAG serving system built from scratch: embed, retrieve, augment, generate, rerank, with a live interactive [course](https://monkfromearth.github.io/monkrag)
+- **[monkway](https://github.com/monkfromearth/monkway)** — an LLM gateway and router built from scratch: routing, retries, caching, budgets, with a live interactive [course](https://monkfromearth.github.io/monkway)
 - **The Simple Take** — complex ideas, one clear thought. Daily across [LinkedIn](https://linkedin.com/in/monkfromearth), [Instagram](https://instagram.com/monkfrom.earth), [YouTube](https://youtube.com/@monkfromearth)
 
 #### Recognition
@@ -65,9 +67,10 @@ Published ML/DL researcher. Speaker. Open source contributor.
 > *"Making simple things is the hardest thing there is. What looks simple survived thousands of iterations."*
 
 - [AI Doesn't Replace Thinking. It Replaces Forgetting.](https://monkfrom.earth/blogs/ai-replaces-forgetting-not-thinking)
-- [Gemma 4: Google's Most Capable Open Model Runs on Your Hardware](https://monkfrom.earth/blogs/gemma-4-open-models)
 - [Good Products Are Hard to Vary](https://monkfrom.earth/blogs/good-products-hard-to-vary)
-- [Karpathy's AutoResearch: How an ML Tool Became a Marketing Optimizer](https://monkfrom.earth/blogs/karpathy-autoresearch-explained-ml-to-marketing)
+- [Pure Software Is Uninvestable](https://monkfrom.earth/blogs/naval-pure-software-uninvestable)
+- [A Physicist Found the Single Operation That Generates All of Mathematics](https://monkfrom.earth/blogs/eml-operator-math-nand-gate)
+- [Claude Fable 5: 6 Lines Buried in the Announcement That Matter More Than the Benchmarks](https://monkfrom.earth/blogs/claude-fable-5-hidden-details)
 
 More at **[monkfrom.earth/blogs](https://monkfrom.earth/blogs)**
 
