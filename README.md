@@ -42,7 +42,7 @@ Published ML/DL researcher. Speaker. Open source contributor.
 
 - **Meta × DataCamp Global 200 Scholar** — 1 of 200 developers globally
 - **ML/DL Author** — Springer SCI Conference ([DOI](http://doi.org/10.1007/978-981-15-2071-6_12))
-- **Anthropic MCP Certified** — Rich-context AI applications
+- **Quantum Machine Learning** — University of Toronto ([verify](https://courses.edx.org/certificates/bea072907d824b16965bf39021c1e083))
 
 </td>
 <td width="50%">
@@ -81,6 +81,8 @@ Languages    TypeScript · Go · Python · JavaScript
 Databases    PostgreSQL · MongoDB · ClickHouse · Redis
 Infra        AWS · Azure · Google Cloud · Docker · Kubernetes
 Patterns     Microservices · Event-driven · CQRS · DDD
+AI           LLMs · RAG · Vector Search · Agents · Deep Learning
+Interests    Distributed Systems · Compilers · Quantum Computing · Evolutionary Biology
 ```
 
 ---
