@@ -28,17 +28,17 @@ Published ML/DL researcher. Speaker. Open source contributor.
 
 #### What I'm Building
 
-- **Agentic AI at [Levo.so](https://levo.so)** — natural language orchestrating 15+ microservices, serving 2M+ visitors
-- **The Simple Take** — complex ideas, one clear thought. Daily across [LinkedIn](https://linkedin.com/in/monkfromearth), [Instagram](https://instagram.com/monkfrom.earth), [YouTube](https://youtube.com/@monkfromearth)
+- **Agentic AI at [Levo.so](https://levo.so)**: natural language orchestrating 15+ microservices, serving 2M+ visitors
+- **The Simple Take**: complex ideas, one clear thought. Daily across [LinkedIn](https://linkedin.com/in/monkfromearth), [Instagram](https://instagram.com/monkfrom.earth), [YouTube](https://youtube.com/@monkfromearth)
 
 #### Building from First Principles
 
-> Rebuilding the systems modern AI runs on, down to the fundamentals. The only honest way to truly understand them.
+> Rebuilding the systems modern AI runs on, down to the fundamentals. The only honest way to understand them.
 
-- **[monktensor](https://github.com/monkfromearth/monktensor)** — a deep learning framework: scalar autograd up to trained neural nets, every primitive built by hand. Live interactive [course](https://monkfromearth.github.io/monktensor).
-- **[monkrag](https://github.com/monkfromearth/monkrag)** — a RAG serving system: embed, retrieve, augment, generate, and rerank, built and measured end to end. Live interactive [course](https://monkfromearth.github.io/monkrag).
-- **[monkway](https://github.com/monkfromearth/monkway)** — an LLM gateway and router: routing, retries, caching, and budgets, hand-built. Live interactive [course](https://monkfromearth.github.io/monkway).
-- **[monkquant](https://github.com/monkfromearth/monkquant)** — a quantization toolkit: compress numbers to fewer bits and measure exactly what accuracy it costs. Live interactive [course](https://monkfromearth.github.io/monkquant).
+- **[monktensor](https://github.com/monkfromearth/monktensor)**: a deep learning framework. Scalar autograd up to trained neural nets, every primitive built by hand. Live interactive [course](https://monkfromearth.github.io/monktensor).
+- **[monkrag](https://github.com/monkfromearth/monkrag)**: a RAG serving system. Embed, retrieve, augment, generate, rerank, built and measured end to end. Live interactive [course](https://monkfromearth.github.io/monkrag).
+- **[monkway](https://github.com/monkfromearth/monkway)**: an LLM gateway and router. Routing, retries, caching, budgets, all hand-built. Live interactive [course](https://monkfromearth.github.io/monkway).
+- **[monkquant](https://github.com/monkfromearth/monkquant)**: a quantization toolkit. Compress numbers to fewer bits, then measure exactly what accuracy it costs. Live interactive [course](https://monkfromearth.github.io/monkquant).
 
 #### Recognition
 
@@ -46,16 +46,16 @@ Published ML/DL researcher. Speaker. Open source contributor.
 <tr>
 <td width="50%">
 
-- **Meta × DataCamp Global 200 Scholar** — 1 of 200 developers globally
-- **ML/DL Author** — Springer SCI Conference ([DOI](http://doi.org/10.1007/978-981-15-2071-6_12))
-- **Quantum Machine Learning** — University of Toronto ([verify](https://courses.edx.org/certificates/bea072907d824b16965bf39021c1e083))
+- **Meta × DataCamp Global 200 Scholar**: 1 of 200 developers globally
+- **ML/DL Author**: Springer SCI Conference ([DOI](http://doi.org/10.1007/978-981-15-2071-6_12))
+- **Quantum Machine Learning**: University of Toronto ([verify](https://courses.edx.org/certificates/bea072907d824b16965bf39021c1e083))
 
 </td>
 <td width="50%">
 
-- **Speaker** — Google Cloud Community Days, GDGs, NIT Bhopal
-- **GDG Bhopal Co-organizer** — 10K+ developers, 6 years
-- **3x Google India Community Summit** — Ladakh, Goa, Udaipur
+- **Speaker**: Google Cloud Community Days, GDGs, NIT Bhopal
+- **GDG Bhopal Co-organizer**: 10K+ developers, 6 years
+- **3x Google India Community Summit**: Ladakh, Goa, Udaipur
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ Interests    Distributed Systems · Compilers · Quantum Computing · Evolutiona
 
 <div align="center">
 
-**[monkfrom.earth](https://monkfrom.earth)** — builder, writer, thinker.
+**[monkfrom.earth](https://monkfrom.earth)** · builder, writer, thinker.
 
 *hi@monkfrom.earth*
 
