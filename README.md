@@ -29,10 +29,16 @@ Published ML/DL researcher. Speaker. Open source contributor.
 #### What I'm Building
 
 - **Agentic AI at [Levo.so](https://levo.so)** — natural language orchestrating 15+ microservices, serving 2M+ visitors
-- **[monktensor](https://github.com/monkfromearth/monktensor)** — a deep learning framework built from scratch: scalar autograd up to trained neural nets, taught through a live interactive [course](https://monkfromearth.github.io/monktensor)
-- **[monkrag](https://github.com/monkfromearth/monkrag)** — a RAG serving system built from scratch: embed, retrieve, augment, generate, rerank, with a live interactive [course](https://monkfromearth.github.io/monkrag)
-- **[monkway](https://github.com/monkfromearth/monkway)** — an LLM gateway and router built from scratch: routing, retries, caching, budgets, with a live interactive [course](https://monkfromearth.github.io/monkway)
 - **The Simple Take** — complex ideas, one clear thought. Daily across [LinkedIn](https://linkedin.com/in/monkfromearth), [Instagram](https://instagram.com/monkfrom.earth), [YouTube](https://youtube.com/@monkfromearth)
+
+#### Building from First Principles
+
+> Rebuilding the systems modern AI runs on, down to the fundamentals. The only honest way to truly understand them.
+
+- **[monktensor](https://github.com/monkfromearth/monktensor)** — a deep learning framework: scalar autograd up to trained neural nets, every primitive built by hand. Live interactive [course](https://monkfromearth.github.io/monktensor).
+- **[monkrag](https://github.com/monkfromearth/monkrag)** — a RAG serving system: embed, retrieve, augment, generate, and rerank, built and measured end to end. Live interactive [course](https://monkfromearth.github.io/monkrag).
+- **[monkway](https://github.com/monkfromearth/monkway)** — an LLM gateway and router: routing, retries, caching, and budgets, hand-built. Live interactive [course](https://monkfromearth.github.io/monkway).
+- **[monkquant](https://github.com/monkfromearth/monkquant)** — a quantization toolkit: compress numbers to fewer bits and measure exactly what accuracy it costs. Live interactive [course](https://monkfromearth.github.io/monkquant).
 
 #### Recognition
 
